@@ -1,2 +1,5 @@
 # chatbot
-AI chatbot using Tensor Flow
+AI chatbot using TensorFlow
+
+## !!tflearn doesn't work with TensorFlow 2.0!!
+
